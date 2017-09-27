@@ -1,0 +1,8 @@
+include 'desktop', 'core'
+include 'pearl-audio-manager'
+include 'pearl-item-manager'
+include 'pearl-world-manager'
+include 'pearl-ai-manager'
+include 'pearl-story-progression-manager'
+include 'pearl-player-manager'
+
